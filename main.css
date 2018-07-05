@@ -1,0 +1,13 @@
+div {
+    font-size: 5rem;
+    text-align: canter;
+    background-color:black;
+    color:ivory;
+    justify-content: center;
+}
+body{
+    background-image:url("http://photos1.blogger.com/blogger/3394/128/1600/wizardofoz.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
